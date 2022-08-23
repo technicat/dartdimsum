@@ -1,0 +1,10 @@
+{
+	"name": "Taiwan",
+	"regions": [
+		"twkaohsiung",
+		"twtaichung",
+		"twtainan",
+		"twtaipei",
+		"twtaoyuan"
+	]
+}

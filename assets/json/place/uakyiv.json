@@ -1,0 +1,18 @@
+{
+    "name": "Kyiv",
+    "places": [
+        {
+            "title": "Bao",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://bao.ua/"
+                }
+            ],
+            "lat": 49.388320,
+            "lon": 30.172150,
+            "city": "Kyiv",
+            "address": "Mechnikova St.,14, Kyiv (Kiev) 01133 Ukraine"
+        }
+    ]
+}
