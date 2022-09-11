@@ -2,6 +2,23 @@
     "name": "Florida",
     "places": [
         {
+            "title": "Dim Sum King",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "http://www.dimsumsarasota.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-king-bradenton"
+                }
+            ],
+            "lat": 27.389794957428585,
+            "lon":  -82.45792825998795,
+            "city": "Bradenton",
+            "address": "8194 Tourist Center Dr Bradenton, FL 34201"
+        },
+        {
             "title": "Hong Kong Dim Sum",
             "links": [
                 {
@@ -34,6 +51,19 @@
             "lon": -80.069140,
             "city": "Delray Beach",
             "address": "155 Ne 4th Ave Delray Beach, FL 33483"
+        },
+        {
+            "title": "Hong Kong Bistro",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/hong-kong-bistro-jacksonville-7"
+                }
+            ],
+            "lat": 30.285379061954785,
+            "lon": -81.45992354457992,
+            "city": "Jacksonville",
+            "address": "13500 Beach Blvd Ste 25 Jacksonville, FL 32224"
         },
         {
             "title": "S & R Dim Sum",
