@@ -167,5 +167,76 @@
                 "URL": "https://simplechinesefood.com/recipe/rice-eel-in-clay-pot"
             }
         ]
+    },
+    {
+        "words": [
+            {
+                "Chinese": "香菇滑雞煲仔飯",
+                "Simplified": "香菇滑鸡煲仔饭",
+                "English": "mushroom chicken clay pot rice",
+                "Yale": "hēung gū bōu jái faahn",
+                "Pinyin": "xiāng gū bāo zǐ fàn",
+                "resources": [
+                    {
+                        "name": "香菇",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%99%E8%8F%87"
+                    },
+                    {
+                        "name": "香",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%A6%99"
+                    },
+                    {
+                        "name": "菇",
+                        "URL": "https://en.wiktionary.org/wiki/%E8%8F%87"
+                    },
+                    {
+                        "name": "煲仔飯",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94%E9%A3%AF"
+                    },
+                    {
+                        "name": "煲仔",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94"
+                    },
+                    {
+                        "name": "煲",
+                        "URL": "https://en.wiktionary.org/wiki/%E7%85%B2"
+                    },
+                    {
+                        "name": "仔",
+                        "URL": "https://en.wiktionary.org/wiki/%E4%BB%94"
+                    },
+                    {
+                        "name": "飯",
+                        "URL": "https://en.wiktionary.org/wiki/%E9%A3%AF"
+                    }
+                ]
+            }
+        ],
+        "images": [
+            {
+                "image": "mushroomchickenclaypotyummyrice",
+                "place": "Yummy Rice, Las Vegas, Nevada"
+            }
+        ],
+        "description": "Clay pot rice topped with mushrooms and chicken.\n\n**Characters**\n\n香菇 is [shiitake mushroom](https://en.wikipedia.org/wiki/Shiitake), 滑雞 is [slippery chicken*](https://misschinesefood.com/the-slippery-steamed-chicken/), ([滑](https://en.wiktionary.org/wiki/%E6%BB%91) is *slippery* and [雞](https://en.wiktionary.org/wiki/%E9%9B%9E) is *chicken*), [煲仔](https://en.wiktionary.org/wiki/%E7%85%B2%E4%BB%94) is *clay pot* ([煲](https://en.wiktionary.org/wiki/%E7%85%B2) is *pot*, and [仔](https://en.wiktionary.org/wiki/%E4%BB%94) is *small* or *child*), and [飯](https://en.wiktionary.org/wiki/%E9%A3%AF) is *rice* (cooked), so 香菇滑雞煲仔飯 is *shiitake mushroom slippery chicken clay pot rice*.",
+        "tags": [
+            "新菜",
+            "香菇",
+            "菇",
+            "滑雞",
+            "煲仔飯",
+            "粵菜",
+            "蔥",
+            "鴨",
+            "薑",
+            "飯",
+            "白飯"
+        ],
+        "resources": [
+            {
+                "name": "The Woks of Life",
+                "URL": "https://thewoksoflife.com/chicken-mushroom-clay-pot-rice/"
+            }
+        ]
     }
 ]
