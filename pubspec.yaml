@@ -33,7 +33,7 @@ dependencies:
   flutter_tts:
   freezed_annotation:
   get:
-  google_ml_kit:
+#  google_ml_kit:
   json_annotation: ">=4.4.0"
   material_search:
     git: 
