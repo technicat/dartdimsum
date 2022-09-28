@@ -124,12 +124,28 @@
                 "URL": "https://littlebellevuekitchen.blogspot.com/2020/07/chiu-chow-fun-gor-teochew-dumplings.html"
             },
             {
+                "name": "Feast Glorious Feast",
+                "URL": "https://feastgloriousfeast.com/fun-guo/"
+            },
+            {
+                "name": "Flying Tiger Emporium",
+                "URL": "https://flyingtigeremporium.com/teochew-dumplings-chiu-chow-fen-guo-fun-kor-%E6%BD%AE%E5%B7%9E%E7%B2%89%E6%9E%9C/"
+            },
+            {
+                "name": "Mom's Chinese Kitchen",
+                "URL": "http://www.momschinesekitchen.com/chiu-chow-fun-gor/"
+            },
+            {
                 "name": "Slightly Astray",
                 "URL": "https://www.slightlyastray.com/a-sampling-of-chaozhou-cuisine/"
             },
             {
                 "name": "Wikipedia",
                 "URL": "https://en.wikipedia.org/wiki/Chaozhou_cuisine"
+            },
+            {
+                "name": "Yum Cha Guide",
+                "URL": "http://www.yumchaguide.com/portfolio/chiu-chow-dumpling/"
             }
         ]
     },

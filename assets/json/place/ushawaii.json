@@ -28,6 +28,19 @@
             "address": "1111 Bishop St, Ste 2, Honolulu, HI 96813"
         },
         {
+            "title": "Dim Sum Village",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dimsum-village-honolulu"
+                }
+            ],
+            "lat": 21.313376581147722,
+            "lon":  -157.86262536242558,
+            "city": "Honolulu",
+            "address": "1120 Maunakea St Honolulu, HI 96817"
+        },
+        {
             "title": "Fook Lam",
             "links": [
                 {
@@ -54,7 +67,7 @@
             "address": "1138 Smith St, Honolulu, HI 96817"
         },
         {
-            "title": "Golden Palace Seafood Restaurant",
+            "title": "Golden Palace",
             "links": [
                 {
                     "name": "Yelp",
@@ -144,6 +157,36 @@
             "address": "1170 Nuuanu Ave, Ste 102, Honolulu, HI 96817"
         },
         {
+            "title": "Morimoto Asia Waikiki",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://morimotoasiawaikiki.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/morimoto-asia-waikiki-honolulu"
+                }
+            ],
+            "lat": 21.2751809823481,
+            "lon": -157.82391351153206,
+            "city": "Honolulu",
+            "address": "1170 Nuuanu Ave, Ste 102, Honolulu, HI 96817"
+        },
+        {
+            "title": "New Canton House",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/canton-house-honolulu"
+                }
+            ],
+            "lat": 21.31395163866796,
+            "lon":  -157.86339907402908,
+            "city": "Honolulu",
+            "address": "162 N Hotel St Honolulu, HI 96817"
+        },
+        {
             "title": "Nice Day Chinese Seafood",
             "links": [
                 {
@@ -155,6 +198,37 @@
             "lon": -157.861240,
             "city": "Honolulu",
             "address": "1425 Liliha St, Ste 2-5, Honolulu, HI 96817"
+        },
+
+        "title": "Royal Kitchen",
+        "links": [
+            {
+                "name": "site",
+                "URL": "https://royalkitchenhawaii.com/"
+            },
+            {
+                "name": "Yelp",
+                "URL": "https://www.yelp.com/biz/royal-kitchen-honolulu"
+            }
+        ],
+        "lat": 21.315677851979192,
+        "lon": -157.86062175075057,
+        "city": "Honolulu",
+        "address": "100 N Beretania St Ste 175 Honolulu, HI 96817"
+    },
+        
+        {
+            "title": "Sing Cheong Yuan Bakery",
+            "links": [
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/sing-cheong-yuan-bakery-honolulu-2"
+                }
+            ],
+            "lat": 21.312921858541856,
+            "lon":  -157.86322820471764,
+            "city": "Honolulu",
+            "address": "1027 Maunakea St Honolulu, HI 96817"
         },
         {
             "title": "Tai Pan Dim Sum",
