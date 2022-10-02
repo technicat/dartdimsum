@@ -227,10 +227,6 @@
             "title": "Dim Sum King",
             "links": [
                 {
-                    "name": "site",
-                    "URL": "https://www.dimsumkingtx.com/"
-                },
-                {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/dim-sum-king-houston"
                 }
@@ -273,10 +269,6 @@
         {
             "title": "Golden Dim Sum",
             "links": [
-                {
-                    "name": "site",
-                    "URL": "http://goldendimsum.com/"
-                },
                 {
                     "name": "Yelp",
                     "URL": "https://www.yelp.com/biz/golden-dim-sum-restaurant-houston"
@@ -350,6 +342,23 @@
             "lon": -95.375610,
             "city": "Houston",
             "address": "510 Gray Street, Houston, TX 77072"
+        },
+        {
+            "title": "Dim Sum Box",
+            "links": [
+                {
+                    "name": "site",
+                    "URL": "https://dimsumboxkaty.com/"
+                },
+                {
+                    "name": "Yelp",
+                    "URL": "https://www.yelp.com/biz/dim-sum-box-katy"
+                }
+            ],
+            "lat": 29.789768847786853,
+            "lon":  -95.77070064459123,
+            "city": "Katy",
+            "address": "1223 Grand W Blvd Bldg B, Unit B-107 Katy, TX 77449"
         },
         {
             "title": "JS Chen's Dim Sum & BBQ",
