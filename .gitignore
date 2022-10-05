@@ -6,6 +6,9 @@ macos
 web
 windows
 
+# don't commit assets, they're copied from another repo
+assets
+
 # Miscellaneous
 *.class
 *.log
